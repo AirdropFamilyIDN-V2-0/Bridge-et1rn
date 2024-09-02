@@ -20,7 +20,7 @@ git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
 cd Bridge-et1rn
 ```
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ```
 python t3rn.py
