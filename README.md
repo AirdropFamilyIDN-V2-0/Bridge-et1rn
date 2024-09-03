@@ -30,16 +30,16 @@ python t3rn.py
 
 # MANUAL INSTALL MODUL
 ```
-pip install web3
+pip install web3==6.20.1
 ```
 ```
-pip install eth-abi
+pip install eth-abi==5.1.0
 ```
 ```
-pip install colorama
+pip install colorama==0.4.6
 ```
 ```
-pip install requests
+pip install requests==2.32.3
 ```
 
 ============================================================
