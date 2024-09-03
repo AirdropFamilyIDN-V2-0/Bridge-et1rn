@@ -46,6 +46,10 @@ pip install requests
 
 # UPDATE V1.1
 
+# SCREENSHOT
+- ![airdopfailyidn](https://github.com/user-attachments/assets/461092c3-7aef-444d-98fd-a86db03aba32)
+
+
 # BOT T3RN Incentivized Testnet
 - BRIDGE WITH PROXY
 - MULTI AKUN
