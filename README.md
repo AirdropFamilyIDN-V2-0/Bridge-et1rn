@@ -44,7 +44,7 @@ pip install requests==2.32.3
 
 ============================================================
 
-# UPDATE V1.1
+# UPDATE V1
 
 # SCREENSHOT
 - ![airdopfailyidn](https://github.com/user-attachments/assets/461092c3-7aef-444d-98fd-a86db03aba32)
@@ -92,3 +92,58 @@ pip install -r requirements.txt
 python t3rn.py
 ```
 
+============================================================
+
+# UPDATE V2
+# BOT T3RN TESTNET AUTO BRIDGE + MULTI AKUN + APPROVED EXSEKUTOR
+- LINK GARAPAN : https://t.me/AirdropFamilyIDN/5025
+
+# DIBACA!
+- Petama run ```approve.py``` dulu [1x cukup] sebelum ```t3rn_multi.py```
+- Baru jalankan ```t3rn_multi.py```
+- Perlu ```eth arb sepolia```, ```eth base sepolia``` & ```brn testnet```.
+- Faucet brn https://faucet.brn.t3rn.io/
+- Kalau ```faucet brn error```, silahkan minta temenmu sedikit. 0.1 BRN cukup.
+
+# PVKEYLIST.TXT
+- ISI DENGAN PRIVATEKEY
+
+# RPC BRN Testnet
+
+- NETWORK NAME : ```BRN```
+- RPC URL      : ```https://brn.rpc.caldera.xyz/http```
+- ChainID      : ```6636130```
+- Symbol       : ```BRN```
+- Explorer     : ```https://brn.explorer.caldera.xyz/```
+
+# HOW TO RUN?
+```
+git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
+```
+```
+cd Bridge-et1rn
+```
+```
+cd updatev2
+```
+```
+pip install requests
+```
+```
+pip install web3==6.20.1
+```
+- kalau dah terlanjur install web3
+```
+pip install web3==6.20.1 --upgrade
+```
+- atau uninstall dulu
+```
+pip uninstall web3
+```
+- lalu install ulang
+```
+pip install web3==6.20.1
+```
+```
+python t3rn_multi.py
+```
