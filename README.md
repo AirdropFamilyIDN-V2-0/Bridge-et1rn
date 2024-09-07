@@ -149,6 +149,10 @@ pip uninstall web3
 ```
 pip install web3==6.20.1
 ```
+- RUN SCRIPT
+```
+python approve.py
+```
 ```
 python t3rn_multi.py
 ```
