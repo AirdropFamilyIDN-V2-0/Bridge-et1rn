@@ -1,0 +1,7 @@
+pvkey1
+pvkey2
+pvkey3
+# Auto Bridge https://bridge.t1rn.io Random | By @ylasgamers | https://t.me/AirdropFamilyIDN
+# Support Multiple Account/Wallet | Input Privatekey On pvkeylist.txt
+# Make Sure Already Using approve.py & Have Balance ETH ARB | ETH BASE Sepolia & BRN Testnet
+# Link Garapan : https://t.me/AirdropFamilyIDN/5025                    
