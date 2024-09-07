@@ -1,13 +1,4 @@
-print(Fore.BLUE + '[+]============================================[+]')
-print(Fore.CYAN + "[+]  _   _____                                 [+]")
-print(Fore.CYAN + "[+] | |_|___ / _ __ _ __                       [+]")
-print(Fore.CYAN + "[+] | __| |_ \\| '__| '_ \\                      [+]")
-print(Fore.CYAN + "[+] | |_ ___) | |  | | | |                     [+]")
-print(Fore.CYAN + "[+]  \\__|____/|_|  |_| |_| V2                [+]")
-print(Fore.CYAN + "[+]                                            [+]")
-print(Fore.BLUE + '[+]Auto Bridge T1RN.IO Random Amount With Proxy[+]')
-print(Fore.BLUE + '[+]    By @ylasgamers | @AirdropFamilyIDN      [+]')
-print(Fore.BLUE + '[+]============================================[+]')
+
 # Auto Bridge https://bridge.t1rn.io Random | By @ylasgamers | https://t.me/AirdropFamilyIDN
 # Support Multiple Account/Wallet | Input Privatekey On pvkeylist.txt
 # Make Sure Already Using approve.py & Have Balance ETH ARB | ETH BASE Sepolia & BRN Testnet
