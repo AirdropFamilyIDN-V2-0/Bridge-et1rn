@@ -96,7 +96,12 @@ python t3rn.py
 
 # UPDATE V2
 # BOT T3RN TESTNET AUTO BRIDGE + MULTI AKUN + APPROVED EXSEKUTOR
-- LINK GARAPAN : https://t.me/AirdropFamilyIDN/5025
+# SCREENSHOT
+- ![image](https://github.com/user-attachments/assets/bef2008c-256e-41c0-9505-63f5df3be2bc)
+
+
+# LINK GARAPAN
+- https://t.me/AirdropFamilyIDN/5025
 
 # DIBACA!
 - Petama run ```approve.py``` dulu [1x cukup] sebelum ```t3rn_multi.py```
