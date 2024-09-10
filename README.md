@@ -156,3 +156,44 @@ python approve.py
 ```
 python t3rn_multi.py
 ```
+
+============================================================
+
+#UPDATE V3
+BOT T3RN TESTNET
+
+# Link Garapan : https://t.me/AirdropFamilyIDN/5025
+
+# Sekarang, bisa dapetin reward dari dua tempat: satu dari bridge dan satu lagi dari executors.
+# Jadi, total reward yang bisa kamu klaim ada dua bagian:
+- Reward dari bridge
+- Reward dari executors
+
+# Buat klaim reward:
+- Setiap kali bridge sukses, transaksi bakal otomatis tercatat di ```t1rnmultiv3.py.log```.
+- Buat klaim reward, pastiin status transaksi udah "```Attested```" (cek gambar yang ada). Kalau udah "```Attested```," kamu bisa klaim deh.
+
+# Cara klaim:
+- Salin TX hash dari transaksi dan masukin ke file ```txhashlist.txt```.
+- Jalankan skrip ```t1rnrewardbrnv3.py```.
+- Setelah klaim selesai, hapus entry dari ```txhashlist.txt```. Atau kalau mau lebih gampang, kamu bisa ```klaim reward setiap 12 jam atau 24 jam```, karena kamu bisa klaim beberapa kali dengan masukin TX hash aja.
+- Untuk bridge yang statusnya udah "```Attested```" sebelumnya juga bisa diklaim reward-nya. Cukup cari TX hash-nya dan ikutin langkah-langkah di atas.
+
+# Sekarang, ```approve.py``` udah nggak perlu dipakai lagi. ```[skip]```
+
+# HOW TO RUN
+```
+git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
+```
+```
+cd Bridge-et1rn
+```
+```
+cd updatev3
+```
+```
+python t1rnrewardbrnv3.py
+```
+```
+python t1rnmultiv3.py
+```
