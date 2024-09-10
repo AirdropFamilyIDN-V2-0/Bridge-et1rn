@@ -159,8 +159,8 @@ python t3rn_multi.py
 
 ============================================================
 
-#UPDATE V3
-BOT T3RN TESTNET
+# UPDATE V3
+# BOT T3RN TESTNET
 
 # Link Garapan : https://t.me/AirdropFamilyIDN/5025
 
