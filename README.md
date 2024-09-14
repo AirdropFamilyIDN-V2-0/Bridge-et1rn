@@ -197,3 +197,56 @@ python t1rnrewardbrnv3.py
 ```
 python t1rnmultiv3.py
 ```
+
+============================================================
+
+# UPDATE V4
+# BOT T3RN TESTNET
+
+# YOU NEED FEE TESTNET, ETH BLAST SEPOLIA & BRN TESTNET
+
+# pvkeylist.txt
+- Isi dengan privatekeymu
+
+# txhashlist.txt
+- isi dengan hasil log txhash, dari file t1rnmultiv4.py.log / t1rnmultiv4.1.py.log
+
+# NOTED
+- kalau mau claim brn reward pastikan auto bridge di stop dulu baru run,
+```
+python t1rnrewardbrnv4.py
+```
+- pastikan txhashlist.txt sudah di isi dengan log txhash
+
+
+# HOW TO RUN
+```
+git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
+```
+```
+cd Bridge-et1rn
+```
+```
+python t1rnmultiv4.py
+```
+```
+python t1rnmultiv4.1.py
+```
+```
+pip install requests
+```
+```
+pip install web3==6.20.1
+```
+- kalau dah terlanjur install web3
+```
+pip install web3==6.20.1 --upgrade
+```
+- atau uninstall dulu
+```
+pip uninstall web3
+```
+- lalu install ulang
+```
+pip install web3==6.20.1
+```
