@@ -281,7 +281,7 @@ git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
 cd Bridge-et1rn
 ```
 ```
-updatev5
+cd updatev5
 ```
 ```
 python t1rnmultiv5_auto.py
