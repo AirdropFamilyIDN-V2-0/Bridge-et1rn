@@ -250,3 +250,46 @@ pip uninstall web3
 ```
 pip install web3==6.20.1
 ```
+
+============================================================
+# UPDATEV5
+
+# BOT T3RN TESTNET
+
+# YOU NEED FEE TESTNET, ETH BASE SEPOLIA & BRN TESTNET
+
+# PEJELASAN FILE
+
+# AUTO
+- t1rnmultiv5_auto.py [ ini pake api get estimate ]
+- t1rnmultiv5_auto_a1.py [ ini ga pake api get estimate ]
+- auto claim reward as bridge & executors otomatis
+
+# MANUAL
+- cd manual
+- t1rnmultiv5.py [ ini pake api get estimate ]
+- t1rnmultiv5_a1.py [ ini ga pake api get estimate ]
+- manual claim reward as bridge & executors Run t1rnrewardbrnv5.py
+
+# Minimal Bridge 0.01
+
+# HOW TO RUN
+```
+git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
+```
+```
+cd Bridge-et1rn
+```
+```
+updatev5
+```
+```
+python t1rnmultiv5_auto.py
+```
+```
+python t1rnmultiv5_auto_a1.py
+```
+# JIKA INGIN MENGGUNAKAN MANUAL
+```
+cd manual
+```
