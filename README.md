@@ -301,3 +301,18 @@ cd manual
 - sekarang butuh eth base, op sepolia+brn testnet
 - min bridge 0.1 eth
 
+```
+git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
+```
+```
+cd Bridge-et1rn
+```
+```
+cd updatev6
+```
+```
+python t1rnmultiv6_auto.py
+```
+```
+python t1rnmultiv6_auto_a1.py
+```
