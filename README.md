@@ -293,3 +293,11 @@ python t1rnmultiv5_auto_a1.py
 ```
 cd manual
 ```
+
+
+============================================================
+# UPDATEV6
+
+- sekarang butuh eth base, op sepolia+brn testnet
+- min bridge 0.1 eth
+
